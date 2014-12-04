@@ -1,0 +1,25 @@
+{
+  "name": "react-formview",
+  "version": "0.0.1",
+  "description": "A tiny form-view library for reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "forms"
+  ],
+  "author": "Johannes Lumpe",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^0.1.18"
+  },
+  "peerDependencies": {
+    "react": "^0.12.1"
+  },
+  "dependencies": {
+    "lodash-node": "^2.4.1",
+    "moment": "^2.8.4"
+  }
+}
